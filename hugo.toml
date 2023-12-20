@@ -1,9 +1,9 @@
 baseURL = 'https://sdnpsaj.github.io/newsite/'
+canonifyurls = true
 languageCode = 'en-us'
 publishDir = "docs"
 title = '新闻首页'
 theme = 'ananke'
-
 
 
 [markup]
