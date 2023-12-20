@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://sdnpsaj.github.io/newsite/'
 languageCode = 'en-us'
 publishDir = "docs"
 title = '新闻首页'

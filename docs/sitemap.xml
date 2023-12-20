@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/posts/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/first/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/posts/first/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/first4/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/posts/first4/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/first3/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/posts/first3/</loc>
     <lastmod>2023-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/tags/</loc>
   </url><url>
-    <loc>https://example.org/posts/secnod2/</loc>
+    <loc>https://sdnpsaj.github.io/newsite/posts/secnod2/</loc>
   </url>
 </urlset>
